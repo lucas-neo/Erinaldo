@@ -1,0 +1,20 @@
+1;Linha Azul;Metro;Centro
+2;Linha Azul;Metro;Estacao Norte
+3;Linha Azul;Metro;Estacao Leste
+4;Linha Azul;Metro;Estacao Sul
+5;Linha Azul;Metro;Zona Leste
+6;Circular Leste;Onibus;Zona Leste
+7;Circular Leste;Onibus;Zona Norte
+8;Circular Leste;Onibus;Terminal Leste
+9;Circular Leste;Onibus;Zona Norte
+10;Circular Leste;Onibus;Zona Leste
+11;Linha Verde;Metro;Zona Oeste
+12;Linha Verde;Metro;Estacao Central
+13;Linha Verde;Metro;Zona Sul
+14;Linha Verde;Metro;Estacao Sul
+15;Linha Verde;Metro;Zona Su
+16;Expresso Norte;Onibus;Zona Norte
+17;Expresso Norte;Onibus;Av. Norte
+18;Expresso Norte;Onibus;Terminal Norte
+19;Expresso Norte;Onibus;Zona Central
+20;Expresso Norte;Onibus;Centro
